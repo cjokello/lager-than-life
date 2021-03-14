@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lager-than-life/static/css/main.8bd5f8f0.chunk.css",
+    "main.js": "/lager-than-life/static/js/main.0a90c336.chunk.js",
+    "main.js.map": "/lager-than-life/static/js/main.0a90c336.chunk.js.map",
+    "runtime-main.js": "/lager-than-life/static/js/runtime-main.a340c042.js",
+    "runtime-main.js.map": "/lager-than-life/static/js/runtime-main.a340c042.js.map",
+    "static/js/2.ebd8ff1d.chunk.js": "/lager-than-life/static/js/2.ebd8ff1d.chunk.js",
+    "static/js/2.ebd8ff1d.chunk.js.map": "/lager-than-life/static/js/2.ebd8ff1d.chunk.js.map",
+    "index.html": "/lager-than-life/index.html",
+    "static/css/main.8bd5f8f0.chunk.css.map": "/lager-than-life/static/css/main.8bd5f8f0.chunk.css.map",
+    "static/js/2.ebd8ff1d.chunk.js.LICENSE.txt": "/lager-than-life/static/js/2.ebd8ff1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a340c042.js",
+    "static/js/2.ebd8ff1d.chunk.js",
+    "static/css/main.8bd5f8f0.chunk.css",
+    "static/js/main.0a90c336.chunk.js"
+  ]
+}
